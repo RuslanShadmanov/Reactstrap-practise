@@ -1,0 +1,22 @@
+
+
+.App {
+  height: 100vh;
+  /* text-align: center; */
+  /* display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 5px; */
+  
+}
+
+div.spinner-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.actors-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
